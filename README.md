@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I"m Pedro Henrique
 
-<!--
-**phakz0044-rgb/phakz0044-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Developer.** 
 
-Here are some ideas to get you started:
+🐍 Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+
+I build real-world desktop applications focused on automation, business processes and productivity.
+
+Currently developing business software with Python, Flet and SQLite while continuously improving my software engineering skills.
+
+------
+
+## 🧠 What I do?
+- 🖥️ Desktop applications
+- 📄 Document automation (Word generation)
+- 🗄️ Database-driven systems
+- ⚙️ Business process automation
+- 🧩 Clean and maintainable code
+---
+
+## 🛠️ Tech Stack
+
+
+![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge)
+
+
+
+
+----
+
+## 🚀 Philosophy
+
+> _"I don't stop when i fail, i stop when it's done."_
+
+---
+
+⭐ Always Building.
+🤝 Always open to collaborations, partnerships, and cool ideas
