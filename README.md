@@ -24,7 +24,8 @@ Currently developing business software with Python, Flet and SQLite while contin
 
 
 ![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-yellow?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
 
 
 
