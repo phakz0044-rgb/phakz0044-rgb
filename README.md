@@ -29,12 +29,11 @@ Recently, I developed **Aether**, a full-stack AI assistant featuring authentica
 
 ## 🛠️ Tech Stack
 
-
-![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-![React](https://img.shields.io/badge/React-purple?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
