@@ -2,13 +2,12 @@
 
 🚀 **Software Developer.** 
 
-🐍 Python Developer
+🤖 Full Stack & AI Developer
 
 -----
 
 I build real-world desktop applications focused on automation, business processes and productivity.
-
-Currently developing business software with Python, Flet and SQLite while continuously improving my software engineering skills.
+Recently, I developed **Aether**, a full-stack AI assistant featuring authentication, projects, persistent chat history and Groq LLM integration.
 
 ------
 
@@ -18,6 +17,14 @@ Currently developing business software with Python, Flet and SQLite while contin
 - 🗄️ Database-driven systems
 - ⚙️ Business process automation
 - 🧩 Clean and maintainable code
+- 🤖 AI-powered applications
+- 🌐 Full Stack Web Development
+- ⚡ FastAPI REST APIs
+- ⚛️ React + TypeScript interfaces
+- 🗄️ Database architecture & SQLAlchemy
+- 🔐 Authentication & Authorization (JWT)
+- 💬 Intelligent chat systems
+
 ---
 
 ## 🛠️ Tech Stack
@@ -28,6 +35,9 @@ Currently developing business software with Python, Flet and SQLite while contin
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-purple?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ----
@@ -39,4 +49,4 @@ Currently developing business software with Python, Flet and SQLite while contin
 ---
 
 ⭐ Always Building.
-🤝 Always open to collaborations, partnerships, and cool ideas
+💡 Passionate about AI, backend architecture and creating useful software.
